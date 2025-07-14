@@ -7,9 +7,10 @@ h1 {
 	text-align: center;
 }
 
-#left-container {}
+#left-container {
+	left: 0px;
+}
 
-left: 0px;
 
 #right-container {
 	right: 0px;
